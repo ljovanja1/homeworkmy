@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace project2 {
+namespace project3 {
 
     class Program {
 
         static void Main() {
         
-            uint num_1 = 0;
+            int num_1 = 0;
             int num_2 = 0;
 
             num_1 = Convert.ToInt32(Console.ReadLine());
